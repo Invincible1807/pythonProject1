@@ -1,0 +1,5 @@
+employee id=5555252
+employee name=adi
+employee contact=9913415804
+employee department=software head
+the value of B=5000000the value of nts=5350483.32
