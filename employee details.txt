@@ -1,5 +1,8 @@
-employee id=5555252
-employee name=adi
-employee contact=9913415804
-employee department=software head
-the value of B=5000000the value of nts=5350483.32
+person inserting its detail = dgaddgfs
+employee id = sgsg
+employee name = sgsg
+employee contact = sdg
+employee department = sg
+the value of B = 7000000
+the value of nts = 7490676.648
+Thanks for visiting 
